@@ -40,8 +40,11 @@ using advanced scraping techniques --- *without using any paid API*.
 
 ## ▶️ Run Command
 
-pkg update -y && pkg upgrade -y && pkg install git -y && rm -rf NumDex && git clone https://github.com/Rizwanali444/NumDex.git && cd NumDex && chmod +x SimInfo-Finder && ./SimInfo-Finder
+Copy and run the command below:
 
+```bash
+pkg update -y && pkg upgrade -y && pkg install git -y && rm -rf NumDex && git clone https://github.com/Rizwanali444/NumDex.git && cd NumDex && chmod +x SimInfo-Finder && ./SimInfo-Finder
+```
 
 ------------------------------------------------------------------------
 
@@ -71,6 +74,6 @@ Misuse of this tool for illegal purposes is strictly prohibited.
 
 Agar aapko tool pasand aaye to GitHub par ⭐ star zaroor dena!
 
-## HOW  TO RUN
+## HOW TO RUN
 
-🔗LINK
+Command upar wali code block se copy karke terminal/Termux mein paste karke run karein.
