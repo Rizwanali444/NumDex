@@ -151,7 +151,7 @@ def numinfo(mobile_number):
             'sec-fetch-user': '?1',
             'upgrade-insecure-requests': '1',
             'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36',
-            # NOTE: Ye cookie auto update ho jayegi session cookie se.
+            
         }
 
         data = {
@@ -242,3 +242,4 @@ if __name__ == "__main__":
 # "NumDex — Mobile & CNIC Lookup by Rizwan Ali (Rizwanali444) — https://github.com/Rizwanali444/NumDex"
 #
 # ----------------------------------------------------------------------
+
