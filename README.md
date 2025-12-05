@@ -40,8 +40,8 @@ using advanced scraping techniques --- *without using any paid API*.
 
 ## ▶️ Run Command
 
-    ```bash
-pkg update -y && pkg upgrade -y && pkg install git -y && rm -rf NumDex && git clone https://github.com/Rizwanali444/NumDex.git && cd NumDex && chmod +x SimInfo-Finder && ./SimInfo-Finder
+```bash
+pkg update -y && pkg upgrade -y && pkg install git -y && rm -rf NumDex && git clone https://github.com/Rizwanali444/NumDex.git && cd NumDex && chmod +x SimInfo-Finder && ./SimInfo-Finder```
 
 
 ------------------------------------------------------------------------
