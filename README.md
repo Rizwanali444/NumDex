@@ -76,6 +76,9 @@ Agar aapko tool pasand aaye to GitHub par ⭐ star zaroor dena!
 
 ## HOW TO RUN
 
+visit my YouTube▶️ for video tutorial  
+https://youtube.com/shorts/daox8tMJS_M?feature=share
+
 Command upar wali code block se copy karke terminal/Termux mein paste karke run karein.
 ![1000545064](https://github.com/user-attachments/assets/9f88ce81-60fa-470f-aefc-2c4e992e9a12)
 ![1000545063](https://github.com/user-attachments/assets/4f7631d7-8733-47e0-bf64-5c6e74a150a8)
