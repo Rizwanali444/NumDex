@@ -1,3 +1,27 @@
+"""
+NumDex — numinfo1.py
+Repository: Rizwanali444/NumDex
+Commit: f1a4480f8de36f80a01b6022f0d10dd21344a36e
+
+Author / Coder Details (START — DO NOT REMOVE)
+------------------------------------------------
+Author  : Rizwan Ali
+Handle  : Rizwanali444 (GitHub)
+Nick    : ShadowX
+Country : Pakistan 🇵🇰
+Contact : github.com/Rizwanali444
+About   : Developer of NumDex — Mobile & CNIC Lookup tool
+Date    : 2025-12-05
+
+Important note for users:
+If you use, modify, fork, or redistribute this file or code derived from it,
+please keep the Author / Coder Details block intact and give clear credit to:
+Rizwan Ali (Rizwanali444) — https://github.com/Rizwanali444
+
+.
+------------------------------------------------
+"""
+
 import requests
 from bs4 import BeautifulSoup
 import time
@@ -191,3 +215,30 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# ----------------------------------------------------------------------
+# License & Credits (END — DO NOT REMOVE)
+# ----------------------------------------------------------------------
+# Copyright (c) 2025 Rizwan Ali (Rizwanali444)
+#
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to
+# use, copy, modify, merge, publish, distribute, and/or sublicense copies of
+# the Software, subject to the following condition:
+#
+# Attribution Requirement:
+# If you redistribute the Software, in source or binary form, or any
+# derivative work, you MUST include the original Author / Coder Details block
+# at the top of this file (or an equivalent prominent attribution in
+# documentation or about pages) that names: Rizwan Ali (Rizwanali444)
+# and links to: https://github.com/Rizwanali444/NumDex
+#
+# DISCLAIMER:
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+# IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+# DAMAGES OR OTHER LIABILITY.
+#
+# Recommended credit line:
+# "NumDex — Mobile & CNIC Lookup by Rizwan Ali (Rizwanali444) — https://github.com/Rizwanali444/NumDex"
+#
+# ----------------------------------------------------------------------
